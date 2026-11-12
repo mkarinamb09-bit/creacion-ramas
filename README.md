@@ -1,1 +1,2 @@
 Proyecto Git
+Nueva funcionalidad
